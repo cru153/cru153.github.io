@@ -1,5 +1,7 @@
----
-title: "{{ replace .1212 "-" " " | title }}"
-date: {{ 1212.Date }}
-draft: false
----
++++
+title = {{ replace .Name "-" " " | title }}
+description = ""
+tags = ["development"]
+categories = ["Development"]
+date = {{ .Date }}
++++
