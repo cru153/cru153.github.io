@@ -1,9 +1,6 @@
-tmp
-*.rdb
-.env
+.DS_Store
+_site
 .sass-cache
 Gemfile.lock
-_drafts
-_site
-.DS_Store
-.git
+.bundle
+vendor/
