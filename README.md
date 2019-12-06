@@ -1,66 +1,227 @@
-<p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="http://sergiokopplin.github.io/indigo/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/indigo"><img src="https://camo.githubusercontent.com/5393485b732749b3499264168fa8af60166071e8/68747470733a2f2f7472617669732d63692e6f72672f73657267696f6b6f70706c696e2f696e6469676f2e7376673f6272616e63683d67682d7061676573" alt="Build Status" data-canonical-src="https://travis-ci.org/sergiokopplin/indigo.svg?branch=gh-pages" style="max-width:100%;"></a></h2>
-</p>
+# Type
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
-
-***
-
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
-    |
-    <b><a href="README.md#setup">Setup</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
-</p>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
-
-## What has inside
-
-- [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) ~[RSCSS](http://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/)
-- Tests with [Travis](https://travis-ci.org/)
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
-
-## Setup
-
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-4. Write some posts :bowtie:
-
-If you want to test locally on your machine, do the following steps also:
-
-1. Install [Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run `bundle install`
-4. Then run `bundle exec jekyll serve --config _config.yml,_config-dev.yml`
-5. Open it in your browser: `http://localhost:4000`
-6. Test your app with `bundle exec htmlproofer ./_site`
-7. Do you want to use the [jekyll-admin](https://jekyll.github.io/jekyll-admin/) plugin to edit your posts? Go to the admin panel: `http://localhost:4000/admin`. The admin panel will not work on GitHub Pages, [only locally](https://github.com/jekyll/jekyll-admin/issues/341#issuecomment-292739469).
-
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
-```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
-
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
-```
-
-## How To?
-
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+Minimal and Clean Jekyll Theme.
 
 ---
 
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+* [Configurations](#configurations)
+* [Deployment](#deployment)
+* [Posts](#posts)
+* [Pages](#pages)
+* [Navigation](#navigation)
+* [Disqus Comments](#disqus-comments)
+* [Google Analytics](#google-analytics)
+* [Social Media Links](#social-media-links)
+* [Update favicon](#update-favicon)
+
+---
+
+### Configurations
+
+Maxima theme comes with different customizations in the `_config.yml` file:
+
+```sh
+title:       Type
+email:       ''
+description: ''
+baseurl:     '' # The subpath of your site, e.g. /blog
+url:         '' # The base hostname & protocol for your site
+twitter:     ''
+github:      ''
+instagram:   ''
+facebook:    ''
+
+markdown:  kramdown
+permalink: pretty
+paginate:  60
+
+sass:
+  style: compressed
+
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+```
+
+---
+
+### Deployment
+
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` to start the Jekyll server.
+
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+
+---
+
+### Posts
+
+To create a new post, you can create a new markdown file inside the `_posts` directory by following the [recommended file structure](https://jekyllrb.com/docs/posts/#creating-post-files).
+
+The following is a post file with different configurations you can add as example:
+
+```sh
+---
+layout: post
+title: Welcome to Jekyll!
+featured: true
+tags: [frontpage, jekyll, blog]
+image: '/images/welcome.jpg'
+---
+```
+
+You can set the author, featured or not, tags, and the post image.
+
+The `featured` key is to mark the post as a featured post, this will add a simple star icon (*) to the post card.
+
+To keep things more organized, add post images to **/images/pages** directory, and add page images to **/images/pages** directory.
+
+To create a draft post, create the post file under the **_drafts** directory, and you can find more information at [Working with Drafts](http://jekyllrb.com/docs/drafts/).
+
+For tags, try to not add space between two words, for example, `Ruby on Rails`, could be something like (`ruby-on-rails`, `Ruby_on_Rails`, or `Ruby-on-Rails`).
+
+Note that tags are not working with GitHub Pages, that's because the used [jekyll-tagging
+](https://github.com/pattex/jekyll-tagging) plugin is not [whitelisted](https://pages.github.com/versions/) by GitHub.
+
+To make this work, I use [Netlify.com](https://www.netlify.com/) for deployment.
+
+---
+
+### Pages
+
+To create a new page, just create a new markdown file inside the `_pages` directory.
+
+The following is the `about.md` file that you can find as an example included in the theme with the configurations you can set.
+
+```sh
+---
+layout: page
+title: About
+image: '/images/pages/about.jpeg'
+---
+```
+
+Things you can change are: `title` and `image` path.
+
+---
+
+### Navigation
+
+The navigation on the sidebar will automatically include all the links to the pages you have created.
+
+---
+
+### Disqus Comments
+
+Maxima Theme comes with Disqus comments enabled.
+
+Open `_includes/disqus.html` file, and change the `aspirethemes` value on line 15 with your [Disqus account shortname](https://help.disqus.com/customer/portal/articles/466208).
+
+```js
+s.src = '//aspirethemes-demo.disqus.com/embed.js';
+```
+
+So, if your Disqus shortname is `exampleone`, the final code above should be
+
+```js
+s.src = '//exampleone.disqus.com/embed.js';
+```
+
+That's all you need to setup Disqus from the theme side. If you get any issue regarding that comments are unable to load. First, make sure you have [registered your website with Disqus (Step 1)](https://help.disqus.com/customer/portal/articles/466182-publisher-quick-start-guide)
+
+And also check [Disqus troubleshooting guide](https://help.disqus.com/customer/portal/articles/472007-i-m-receiving-the-message-%22we-were-unable-to-load-disqus-%22) if you still have issues.
+
+---
+
+### Google Analytics
+
+To integrate Google Analytics, open `_includes/analytics.html`, and add your Google Analytics code.
+
+### Social Media Links
+
+Social media links included in `_includes/footer.html` file.
+
+The theme is using [Evil Icons](http://evil-icons.io/), which contains very simple and clean icons. The following is a list of the social media icons to use:
+
+Twitter
+
+```html
+<span data-icon='ei-sc-twitter' data-size='s'></span>
+```
+
+Facebook
+
+```html
+<span data-icon='ei-sc-facebook' data-size='s'></span>
+```
+
+Instagram
+
+```html
+<span data-icon='ei-sc-instagram' data-size='s'></span>
+```
+
+Pinterest
+
+```html
+<span data-icon='ei-sc-pinterest' data-size='s'></span>
+```
+
+Vimeo
+
+```html
+<span data-icon='ei-sc-vimeo' data-size='s'></span>
+```
+
+Google Plus
+
+```html
+<span data-icon='ei-sc-google-plus' data-size='s'></span>
+```
+
+SoundCloud
+
+```html
+<span data-icon='ei-sc-soundcloud' data-size='s'></span>
+```
+
+Tumblr
+
+```html
+<span data-icon='ei-sc-tumblr' data-size='s'></span>
+```
+
+Youtube
+
+```html
+<span data-icon='ei-sc-youtube' data-size='s'></span>
+```
+
+---
+
+### Update favicon
+
+You can find the current favicon (favicon.ico) inside the theme root directory, just replace it with your new favicon.
+
+---
+
+👉 Visit [aspirehemes.com](http://aspirethemes.com) for more Jekyll, Ghost, and WordPress themes.
