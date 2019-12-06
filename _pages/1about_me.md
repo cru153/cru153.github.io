@@ -13,13 +13,13 @@ title: 关于About
 
 ---
 
-iam exd3ee aka果汁小孩
+I am exd3ee aka果汁小孩
 
-i Believe science,think it is the right way to understand the truth of the world.
+I Believe science,it is the right way to understand the truth of the world.
 
-Similarly,I also love graffiti,skateboarding, music, programming,reading,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her,and I will continue to discover new things,so that I can continue to absorb and improve.
+Similarly,I also love graffiti,skateboard,music,program,read,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create,and continue to absorb and progress with myself.
 
-Recently I finally realized that I have to rely on myself. Even if no one really cares, must move forward optimistically.
+Recently I realized everything can only rely on myself.Even if no one really cares, must move forward optimistically.
 and conquer the mathafuck world.
 
 <!--=S
