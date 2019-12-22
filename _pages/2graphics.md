@@ -17,6 +17,9 @@ Digital Art
 
 ![about](/images/pages/graphics/4.jpg)
 临摹《circles》
+
+![about](/images/pages/graphics/lil.jpg)
+《knights of sidonia》
 ---
 
 Illustration

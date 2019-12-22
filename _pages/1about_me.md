@@ -3,25 +3,22 @@ layout: page
 title: 关于About
 ---
 
-我是exd3ee,AKA果汁小孩.
+我是exd3ee,AKA果汁小孩,中国人，住在北京。
 
 我相信科学，认为它是了解世界真相那条对的路.
 
 同样我也热爱涂鸦，滑板，音乐，编程，看书，动漫与游戏，作为这些年最能打动我的几个爱好，我一定会好好守护她，也会持续发现新鲜事物，让自己不断吸收不断进步.
 
-最近终于明白什么都要靠自己了..即使没有人真正关心,也要乐观的向前走.
-
 ---
 
-I am exd3ee aka果汁小孩
+I am exd3ee aka果汁小孩,chinese,live in beijing.
 
 I Believe science,it is the right way to understand the truth of the world.
 
 Similarly,I also love graffiti,skateboard,music,program,read,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create,and continue to absorb and progress with myself.
 
-Recently I realized everything can only rely on myself.Even if no one really cares, must move forward optimistically.
-and conquer the mathafuck world.
-
+[weibo](https://weibo.com/537396787)
+[instagram](https://www.instagram.com/exd3ee/)
 <!--=S
 
  You love Minimalism, and you also love writing, Type is designed for you. Type focus on showing your content in a clean and simple way, focus on images, typography, and white space.
