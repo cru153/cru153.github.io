@@ -17,6 +17,8 @@ I Believe science,it is the right way to understand the truth of the world.
 
 Similarly,I also love graffiti,skateboard,music,program,read,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create,and continue to absorb and progress with myself.
 
+---
+
 [weibo](https://weibo.com/537396787)
 [instagram](https://www.instagram.com/exd3ee/)
 
