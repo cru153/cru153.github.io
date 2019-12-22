@@ -23,13 +23,8 @@ Digital Art
 
 ---
 
-Illustration
+Design
 
 ![about](/images/pages/graphics/wotb.jpg)
-
----
-
-Logo Design
-
 ![about](/images/pages/graphics/16_1.jpg)
 ![about](/images/pages/graphics/18_1.jpg)
