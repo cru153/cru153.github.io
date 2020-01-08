@@ -13,7 +13,7 @@ title: 关于About
 
 I am exd3ee,chinese,live in beijing.
 
-I Believe in science,think of it as the right way to understand the truth of the world.
+I believe in science,think of it as the right way to understand the truth of the world.
 
 Similarly,I also love graffiti,skateboard,program,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create.let friends breathe fresh air.
 
