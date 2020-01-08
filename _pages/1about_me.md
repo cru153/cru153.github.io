@@ -3,7 +3,7 @@ layout: page
 title: 关于About
 ---
 
-我是exd3ee,AKA果汁小孩,中国人，住在北京。
+我是果汁小孩,中国人，住在北京。
 
 我相信科学，认为它是了解世界真相那条对的路.
 
@@ -11,7 +11,7 @@ title: 关于About
 
 ---
 
-I am exd3ee aka果汁小孩,chinese,live in beijing.
+I am exd3ee,chinese,live in beijing.
 
 I Believe science,it is the right way to understand the truth of the world.
 
