@@ -7,7 +7,7 @@ title: 关于About
 
 我相信科学，认为它是了解世界真相那条对的路.
 
-同样我也热爱涂鸦，滑板，音乐，编程，看书，动漫与游戏，作为这些年最能打动我的几个爱好，我一定会好好守护她，也会持续发现新鲜的事儿，让自己不断吸收不断进步.
+同样我也热爱涂鸦，滑板，编程，动漫与游戏，作为这些年最能打动我的几个爱好，我一定会好好守护她.也会持续发现新鲜的事儿，让朋友们呼吸到新鲜的空气.
 
 ---
 
@@ -15,7 +15,7 @@ I am exd3ee,chinese,live in beijing.
 
 I Believe science,it is the right way to understand the truth of the world.
 
-Similarly,I also love graffiti,skateboard,music,program,read,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create,and continue to absorb and progress with myself.
+Similarly,I also love graffiti,skateboard,program,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create.let friends breathe fresh air.
 
 ---
 
