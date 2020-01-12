@@ -5,7 +5,7 @@ title: 滑板skate
 
 我们因滑板相聚 无论结果如何 我们相遇 陪伴过 爱你们
 
-https://www.bilibili.com/video/av48717216/
+<iframe src="//player.bilibili.com/player.html?aid=48717216&cid=85312148&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ![about](/images/pages/skateboarding/4.jpg)
 ![about](/images/pages/skateboarding/2.jpg)
