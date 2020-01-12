@@ -3,9 +3,6 @@ layout: page
 title: 滑板skate
 ---
 
-2019
-<iframe src="//player.bilibili.com/player.html?aid=48717216&cid=139258142&page=12" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
 我们因滑板相聚 无论结果如何 我们相遇 陪伴过 爱你们
 
 ![about](/images/pages/skateboarding/4.jpg)
