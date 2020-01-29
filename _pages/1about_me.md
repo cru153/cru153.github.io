@@ -23,7 +23,7 @@ Similarly,I also love graffiti,skateboard,program,animation and games.As the few
 [instagram](https://www.instagram.com/exd3ee/)
 
 ---
-灵魂交流   
+灵魂の交流   
 [weibo(art_the_kid)](https://weibo.com/u/7374316223)
 
 
