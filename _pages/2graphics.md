@@ -6,20 +6,8 @@ title: 图形graphics
 
 Digital Art
 
-![about](/images/pages/graphics/sky.jpg)
-1/50 临摹《sky光遇》
+![about](/images/pages/graphics/kid.jpg)
 
-![about](/images/pages/graphics/zenitsu.jpg)
-2/50 临摹《鬼灭之刃》
-
-![about](/images/pages/graphics/joker.jpg)
-3/50 临摹《joker》
-
-![about](/images/pages/graphics/4.jpg)
-4/50 临摹《circles》
-
-![about](/images/pages/graphics/lil.jpg)
-5/50 《knights of sidonia》
 
 ---
 

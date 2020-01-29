@@ -22,6 +22,10 @@ Similarly,I also love graffiti,skateboard,program,animation and games.As the few
 [weibo](https://weibo.com/537396787)
 [instagram](https://www.instagram.com/exd3ee/)
 
+---
+灵魂交流
+[weibo(art_the_kid)](https://https://weibo.com/u/7374316223)
+
 
 <!--=S
 
