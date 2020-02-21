@@ -3,7 +3,7 @@ layout: page
 title: 滑板skate
 ---
 
-我们因滑板相聚 无论结果如何 我们相遇 陪伴过 爱你们
+因滑板而相聚
 
 ![about](/images/pages/skateboarding/4.jpg)
 ![about](/images/pages/skateboarding/2.jpg)
@@ -14,7 +14,7 @@ title: 滑板skate
 
 west of the bjc
 
-大部分是北京西边的朋友 巅峰时刻hhh
+大部分是北京西边的朋友
 
 ![about](/images/pages/skateboarding/wotb/8.JPG)
 ![about](/images/pages/skateboarding/wotb/4.jpg)
