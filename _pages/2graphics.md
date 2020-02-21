@@ -7,7 +7,7 @@ title: 图形graphics
 Digital Art
 
 ![about](/images/pages/graphics/kid.jpg)
-
+![about](/images/pages/graphics/portrait.jpg)
 
 ---
 

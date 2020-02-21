@@ -14,18 +14,13 @@ title: 滑板skate
 
 west of the bjc
 
-大部分是北京西边的朋友 两年前的巅峰时刻hhhh
+大部分是北京西边的朋友 巅峰时刻hhh
 
 ![about](/images/pages/skateboarding/wotb/8.JPG)
-![about](/images/pages/skateboarding/wotb/7.JPG)
 ![about](/images/pages/skateboarding/wotb/5.JPG)
 ![about](/images/pages/skateboarding/wotb/4.jpg)
 ![about](/images/pages/skateboarding/wotb/10.jpg)
-![about](/images/pages/skateboarding/wotb/3.JPG)
-![about](/images/pages/skateboarding/wotb/12.JPG)
 ![about](/images/pages/skateboarding/wotb/1.jpg)
-![about](/images/pages/skateboarding/wotb/11.JPG)
-![about](/images/pages/skateboarding/wotb/6.jpg)
 ![about](/images/pages/skateboarding/wotb/2.JPG)
 ![about](/images/pages/skateboarding/wotb/9.JPG)
 ahhhhhhhhh
