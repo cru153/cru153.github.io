@@ -26,6 +26,7 @@ contact me ↓
 ---
 和我的艺术↓
 and my art ↓
+
 灵魂の交流   
 [weibo(art_the_kid)](https://weibo.com/u/7374316223)
 
