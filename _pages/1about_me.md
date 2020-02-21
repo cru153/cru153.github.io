@@ -18,14 +18,14 @@ I believe in science,think of it as the right way to understand the truth of the
 Similarly,I also love graffiti,skateboard,program,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create.let friends breathe fresh air.
 
 ---
-联系我↓
-contact me ↓
+联系我↓  
+contact me ↓  
 [weibo](https://weibo.com/537396787)
 [instagram](https://www.instagram.com/exd3ee/)
 
 ---
-和我的艺术↓
-and my art ↓
+和我的艺术↓  
+and my art ↓  
 
 灵魂の交流   
 [weibo(art_the_kid)](https://weibo.com/u/7374316223)
