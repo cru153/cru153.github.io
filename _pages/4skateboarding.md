@@ -17,9 +17,7 @@ west of the bjc
 大部分是北京西边的朋友 巅峰时刻hhh
 
 ![about](/images/pages/skateboarding/wotb/8.JPG)
-![about](/images/pages/skateboarding/wotb/5.JPG)
 ![about](/images/pages/skateboarding/wotb/4.jpg)
-![about](/images/pages/skateboarding/wotb/10.jpg)
 ![about](/images/pages/skateboarding/wotb/1.jpg)
 ![about](/images/pages/skateboarding/wotb/2.JPG)
 ![about](/images/pages/skateboarding/wotb/9.JPG)
