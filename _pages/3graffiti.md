@@ -8,7 +8,7 @@ title: 涂鸦graffiti
 ![about](/images/pages/griffiti/8.JPG)
 
 ![about](/images/pages/griffiti/3.jpg)
-![about](/images/pages/griffiti/2.jpg)
+
 ![about](/images/pages/griffiti/1.jpg)
 ![about](/images/pages/griffiti/7.JPG)
 ![about](/images/pages/griffiti/0904_1.jpg)
