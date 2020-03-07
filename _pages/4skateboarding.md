@@ -3,12 +3,9 @@ layout: page
 title: 滑板skate
 ---
 
-因滑板而相聚
-
-![about](/images/pages/skateboarding/4.jpg)
-![about](/images/pages/skateboarding/2.jpg)
-![about](/images/pages/skateboarding/3.jpg)
-![about](/images/pages/skateboarding/1.JPG)
+![about](/images/pages/skateboarding/f.jpg)   
+这是刚开始玩滑板的时候，最早认识的几个玩滑板的朋友玩到深夜，拍了下来，
+狠喜欢这张照片。
 
 ---
 
@@ -20,14 +17,13 @@ west of the bjc
 ![about](/images/pages/skateboarding/wotb/4.jpg)
 ![about](/images/pages/skateboarding/wotb/1.jpg)
 ![about](/images/pages/skateboarding/wotb/2.JPG)
-![about](/images/pages/skateboarding/wotb/9.JPG)
-ahhhhhhhhh
+
 
 ---
 
 chill skateboards
 
-图1出现的男子创立hhhhhh
+图1出现的男子建立
 
 ![about](/images/pages/skateboarding/chillskateboards/2.JPG)
 ![about](/images/pages/skateboarding/chillskateboards/5.JPG)
