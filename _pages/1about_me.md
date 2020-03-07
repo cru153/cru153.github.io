@@ -3,19 +3,18 @@ layout: page
 title: 关于About
 ---
 
-我是果汁小孩，中国人，住在北京。
+我是果汁小孩，画画与滑板占据大部分人生。   
 
 我相信科学，认为它是了解世界真相那条对的路.
 
-同样我也热爱涂鸦，滑板，编程，动漫与游戏，作为这些年最能打动我的几个爱好，我一定会好好守护她。也会持续发现新鲜的事儿，让朋友们呼吸到新鲜的空气。
+   
 
 
-
-I am exd3ee,chinese,live in beijing.
+I am exd3ee,Paint and skate occupy most of life.   
 
 I believe in science,think of it as the right way to understand the truth of the world.
 
-Similarly,I also love graffiti,skateboard,program,animation and games.As the few hobbies that have moved me most these years,I will definitely protect her. also continue to find new things to create.let friends breathe fresh air.
+
 
 ---
 联系我↓  
