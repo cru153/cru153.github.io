@@ -28,5 +28,4 @@ chill skateboards
 ![about](/images/pages/skateboarding/chillskateboards/2.JPG)
 ![about](/images/pages/skateboarding/chillskateboards/5.JPG)
 ![about](/images/pages/skateboarding/chillskateboards/3.jpg)
-![about](/images/pages/skateboarding/chillskateboards/4.jpg)
 ![about](/images/pages/skateboarding/chillskateboards/1.JPG)
