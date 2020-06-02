@@ -17,6 +17,6 @@ Digital Art
 
 logo design
 
-![about](/images/pages/graphics/wotb.jpg)
-![about](/images/pages/graphics/16_1.jpg)
 ![about](/images/pages/graphics/18_1.jpg)
+![about](/images/pages/graphics/16_1.jpg)
+![about](/images/pages/graphics/wotb.jpg)
