@@ -17,15 +17,12 @@ I believe in science,think of it as the right way to understand the truth of the
 
 
 ---
-联系我↓  
-contact me ↓  
+
 [weibo](https://weibo.com/537396787)
 [instagram](https://www.instagram.com/exd3ee/)
 [artstation](https://exd3ee.artstation.com)
 
 ---
-和我的艺术↓  
-and my art ↓  
 
 灵魂の交流   
 [weibo(art_the_kid)](https://weibo.com/u/7374316223)
