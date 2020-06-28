@@ -11,7 +11,6 @@ title: 滑板skate
 
 west of the bjc
 
-大部分是北京西边的朋友
 
 ![about](/images/pages/skateboarding/wotb/8.JPG)
 ![about](/images/pages/skateboarding/wotb/4.jpg)
@@ -23,7 +22,6 @@ west of the bjc
 
 chill skateboards
 
-图1出现的男子建立
 
 ![about](/images/pages/skateboarding/chillskateboards/2.JPG)
 ![about](/images/pages/skateboarding/chillskateboards/5.JPG)
