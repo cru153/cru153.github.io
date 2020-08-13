@@ -10,7 +10,6 @@ Digital Art
 ![about](/images/pages/graphics/2.jpg)
 ![about](/images/pages/graphics/12.jpg)
 ![about](/images/pages/graphics/dbz17.jpg)
-![about](/images/pages/graphics/4.jpg)
 ![about](/images/pages/graphics/6.jpg)
 
 ---
