@@ -11,7 +11,7 @@ Digital Art
 ![about](/images/pages/graphics/12.jpg)
 ![about](/images/pages/graphics/dbz17.jpg)
 ![about](/images/pages/graphics/6.jpg)
-
+![about](/images/pages/graphics/d.jpg)
 ---
 
 logo design
