@@ -4,7 +4,7 @@ title: 图形graphics
 
 ---
 
-Digital Art
+illstrator
 
 ![about](/images/pages/graphics/kid.jpg)
 ![about](/images/pages/graphics/ut.jpg)
@@ -13,6 +13,11 @@ Digital Art
 ![about](/images/pages/graphics/dbz17.jpg)
 ![about](/images/pages/graphics/Untitled-1.jpg)
 ![about](/images/pages/graphics/6.jpg)
+
+---
+
+character design
+
 ![about](/images/pages/graphics/d.jpg)
 
 ---
