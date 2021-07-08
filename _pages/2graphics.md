@@ -4,7 +4,7 @@ title: 图形graphics
 
 ---
 
-illstrator
+illustration
 
 ![about](/images/pages/graphics/kid.jpg)
 ![about](/images/pages/graphics/ut.jpg)
