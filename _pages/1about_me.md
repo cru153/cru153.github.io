@@ -4,14 +4,12 @@ title: 关于About
 ---
 
 我是果汁小孩，画画与滑板占据了我大部分时间。   
-
 我相信科学，认为它是了解世界真相那条对的路.
 
 
 
 
-I am exd3ee,Paint and skate occupy most of my time.   
-
+I am 33jaydee,Paint and skate occupy most of my time.   
 I believe in science,think of it as the right way to understand the truth of the world.
 
 
