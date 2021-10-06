@@ -6,13 +6,14 @@ title: 图形graphics
 
 illustration
 
+![about](/images/pages/graphics/2.jpg)
+![about](/images/pages/graphics/6.jpg)
 ![about](/images/pages/graphics/kid.jpg)
 ![about](/images/pages/graphics/ut.jpg)
-![about](/images/pages/graphics/2.jpg)
 ![about](/images/pages/graphics/12.jpg)
 ![about](/images/pages/graphics/dbz17.jpg)
 ![about](/images/pages/graphics/Untitled-1.jpg)
-![about](/images/pages/graphics/6.jpg)
+
 
 ---
 
