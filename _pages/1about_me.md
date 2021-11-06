@@ -3,9 +3,9 @@ layout: page
 title: 关于About
 ---
 
-我是果汁小孩，画画与滑板占据了我大部分时间。      
+我是果汁小孩，一直原画师，画画与滑板占据了我大部分时间。      
 
-I am 33jaydee,Paint and skate occupy most of my time.   
+I am 33jaydee,a concept artist，Paint and skate occupy most of my time.   
 
 
 
