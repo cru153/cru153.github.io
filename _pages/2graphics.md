@@ -17,6 +17,7 @@ illustration
 character design
 
 ![about](/images/pages/graphics/d.jpg)
+![about](/images/pages/graphics/WK16.jpg)
 
 ---
 
