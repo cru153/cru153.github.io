@@ -6,6 +6,7 @@ title: 图形graphics
 
 illustration
 
+![about](/images/pages/graphics/m10.1.jpg)
 ![about](/images/pages/graphics/1.jpg)
 ![about](/images/pages/graphics/3.jpg)
 ![about](/images/pages/graphics/dbz17.jpg)
