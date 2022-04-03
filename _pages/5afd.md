@@ -8,6 +8,5 @@ title: 爱发电afd
 
 ---
 
-chill skateboards
-
-<a href="images\pages\graphics\1.jpg" target="_blank">附件1</a>
+12345
+<a href="images\pages\graphics\1.jpg" target="_blank">点击下载</a>
