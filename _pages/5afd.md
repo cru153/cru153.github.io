@@ -10,4 +10,4 @@ title: 爱发电afd
 
 chill skateboards
 
-[screenshot.png](/images/posts/screenshot.png)
+<a href="images\pages\graphics\1.jpg" target="_blank">附件1</a>
