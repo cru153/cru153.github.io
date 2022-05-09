@@ -4,17 +4,17 @@ title: 图形graphics
 
 ---
 
-illustration
+illustration & fan art
 
+![about](/images/pages/graphics/sky.jpg)
 ![about](/images/pages/graphics/m10.1.jpg)
 ![about](/images/pages/graphics/1.jpg)
-![about](/images/pages/graphics/dbz17.jpg)
 ![about](/images/pages/graphics/Untitled-1.jpg)
 
 
 ---
 
-concept character design
+concept design
 
 ![about](/images/pages/graphics/d.jpg)
 ![about](/images/pages/graphics/WK16.jpg)
