@@ -15,7 +15,6 @@ I am 33jaydee,a concept artist，Paint and skate occupy most of my time.
 [weibo](https://weibo.com/537396787)
 [instagram](https://www.instagram.com/exd3ee)
 [artstation](https://exd3ee.artstation.com)
-[deviantart](https://www.deviantart.com/exd3ee)
 
 
 ---
