@@ -7,10 +7,10 @@
 
 # Site settings
 title:       33jaydee(aka果汁小孩)
-email:       'juicekid.cd@outlook.com'
+email:       'exd3ee@outlook.com'
 description: '1231564'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         '' # The base hostname & protocol for your site
 github:      'https://github.com/cru153'
 instagram:   'https://www.instagram.com/_not_wasted_'
 url:         'https://juicekidcd.com/2019/08/18/contact/'

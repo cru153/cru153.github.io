@@ -12,16 +12,19 @@ I am 33jaydee,a concept artist，welcome to my world~
 
 ---
 
-[weibo](https://weibo.com/537396787)
-[bilibili](https://space.bilibili.com/2760748)    
+social media link↓    
+
+[weibo（果汁小孩）](https://weibo.com/537396787)
+[bilibili（果汁小孩）](https://space.bilibili.com/2760748)    
 
 
-[twitter](https://twitter.com/thirtythree_jd)
-[instagram](https://www.instagram.com/exd3ee)
-[artstation](https://exd3ee.artstation.com)
+[twitter（33jaydee）](https://twitter.com/thirtythree_jd)
+[instagram（33jaydee）](https://www.instagram.com/exd3ee)
+[artstation（33jaydee）](https://exd3ee.artstation.com)
 
 
 ---
+have some fun↓
 
 灵魂の交流   
 [weibo(art_the_kid)](https://weibo.com/u/7374316223)
