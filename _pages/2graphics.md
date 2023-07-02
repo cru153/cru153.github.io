@@ -6,7 +6,7 @@ title: 数字艺术digitalart
 
 Character Concepts
 
-![about](/images/pages/graphics/220521.jpg)
+![about](/images/pages/graphics/6.30.jpg)
 ![about](/images/pages/graphics/1.jpg)
 ![about](/images/pages/graphics/d.jpg)
 ![about](/images/pages/graphics/WK16.jpg)
