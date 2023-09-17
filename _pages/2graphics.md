@@ -7,7 +7,6 @@ title: 数字艺术digitalart
 Character Concepts
 
 ![about](/images/pages/graphics/6.30.jpg)
-![about](/images/pages/graphics/1.jpg)
 ![about](/images/pages/graphics/d.jpg)
 ![about](/images/pages/graphics/WK16.jpg)
 
@@ -31,7 +30,7 @@ illustration & fan art
 ![about](/images/pages/graphics/220522.jpg)
 ![about](/images/pages/graphics/21s.jpg)
 ![about](/images/pages/graphics/sky.jpg)
-![about](/images/pages/graphics/m10.1.jpg)
+
 
 
 ---
